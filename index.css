@@ -1,0 +1,12 @@
+#midasi {
+    text-align: center;
+}
+  
+.yoko-layout {
+    display: flex;
+    flex-direction: row;
+}
+  
+#news {
+    background-color: gray;
+}
